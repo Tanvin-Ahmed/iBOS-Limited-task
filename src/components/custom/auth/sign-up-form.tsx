@@ -23,6 +23,8 @@ import google from "../../../assets/google.svg";
 import apple from "../../../assets/apple.svg";
 
 const formSchema = z.object({
+  firstName: z.string().optional(),
+  lastName: z.string().optional(),
   email: z.string().email({ message: "Please enter your email" }),
   password: z.string().min(1, { message: "Please enter your password" }),
   agree: z.boolean().refine((val) => val === true, {
@@ -30,7 +32,7 @@ const formSchema = z.object({
   }),
 });
 
-const SignInForm = () => {
+const SignUpForm = () => {
   const navigate = useNavigate();
   const location = useLocation();
 
@@ -57,10 +59,13 @@ const SignInForm = () => {
   return (
     <div className="md:h-full h-screen flex justify-center items-center">
       <div className="sm:w-[70%] p-4 w-full bg-gray-50 rounded space-y-8">
-        <div>
-          <h1 className="sm:text-5xl text-3xl font-semibold">Welcome back!</h1>
+        <div className="text-center space-y-1">
+          <h2 className="text-xl mb-2 font-semibold">Welcome To</h2>
+          <h1 className="text-4xl font-bold">
+            Furni<span className="text-[#1E99F5]">Flex</span>
+          </h1>
           <p className="text-muted-foreground">
-            Enter your Credentials to access your account
+            Signup for purchase your desire products
           </p>
         </div>
         <Form {...form}>
@@ -68,6 +73,34 @@ const SignInForm = () => {
             onSubmit={form.handleSubmit(onSubmit)}
             className="space-y-4 w-full"
           >
+            <div className="grid grid-cols-2 gap-4 w-full">
+              <FormField
+                control={form.control}
+                name="firstName"
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>First name (optional)</FormLabel>
+                    <FormControl>
+                      <Input placeholder="Enter your first name" {...field} />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+              <FormField
+                control={form.control}
+                name="lastName"
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>Last name (optional)</FormLabel>
+                    <FormControl>
+                      <Input placeholder="Enter your last name" {...field} />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+            </div>
             <FormField
               control={form.control}
               name="email"
@@ -148,7 +181,7 @@ const SignInForm = () => {
               )}
             />
             <Button type="submit" className="w-full">
-              Sign In
+              Sign Up
             </Button>
           </form>
         </Form>
@@ -169,9 +202,9 @@ const SignInForm = () => {
           </Button>
         </div>
         <p className="text-center font-semibold">
-          New in here?{" "}
+          Have an account?{" "}
           <span className="text-[#1E99F5] cursor-pointer" onClick={togglePage}>
-            Sing Up
+            Sing In
           </span>
         </p>
       </div>
@@ -179,4 +212,4 @@ const SignInForm = () => {
   );
 };
 
-export default SignInForm;
+export default SignUpForm;
