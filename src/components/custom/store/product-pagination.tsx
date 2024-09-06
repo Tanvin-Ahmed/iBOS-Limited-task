@@ -13,6 +13,7 @@ import { useWindowWidth } from "@react-hook/window-size";
 import { StoreContext } from "@/context/store-context";
 import { paginateProducts } from "@/query-function/query";
 import { products_data } from "@/data/data";
+import { PRODUCT_PER_PAGE } from "@/constant/constant";
 
 type Props = {
   pageInfo: PageInfo;
@@ -32,7 +33,7 @@ const ProductPagination = ({ pageInfo, setPageInfo }: Props) => {
     const result = paginateProducts(
       products_data,
       newPage,
-      20,
+      PRODUCT_PER_PAGE,
       selectedCategoryId
     );
     setPageInfo((prev) => ({ ...prev, page: newPage }));

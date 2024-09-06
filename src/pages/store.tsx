@@ -3,6 +3,7 @@ import ProductPagination from "@/components/custom/store/product-pagination";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardFooter, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
+import { PRODUCT_PER_PAGE } from "@/constant/constant";
 import { StoreContext } from "@/context/store-context";
 import { categories_data, products_data } from "@/data/data";
 import { calculateDiscount } from "@/lib/utils";
@@ -23,7 +24,7 @@ const StorePage = () => {
   } = useContext(StoreContext);
   const [pageInfo, setPageInfo] = useState<PageInfo>({
     page: 1,
-    pageSize: 20,
+    pageSize: PRODUCT_PER_PAGE,
     total: 0,
     totalPages: 1,
   });
@@ -35,7 +36,7 @@ const StorePage = () => {
 
   // fetching products
   useEffect(() => {
-    const products = paginateProducts(products_data, 1, 20);
+    const products = paginateProducts(products_data, 1, PRODUCT_PER_PAGE);
     const { data, ...rest } = products;
     setProducts(data);
     setPageInfo(rest);
@@ -44,7 +45,12 @@ const StorePage = () => {
   const handleCategorySelect = (categoryId: string) => {
     setSelectedCategoryId(categoryId);
 
-    const products = paginateProducts(products_data, 1, 20, categoryId);
+    const products = paginateProducts(
+      products_data,
+      1,
+      PRODUCT_PER_PAGE,
+      categoryId
+    );
 
     const { data, ...rest } = products;
     setProducts(data);
