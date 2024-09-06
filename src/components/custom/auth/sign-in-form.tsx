@@ -38,7 +38,7 @@ const SignInForm = () => {
   const [showPassword, setShowPassword] = useState(false);
 
   // location that user go after login
-  const from = location.state?.from?.pathname || "/";
+  const from = location.state?.from?.pathname;
 
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
@@ -51,7 +51,7 @@ const SignInForm = () => {
 
   const onSubmit = (values: z.infer<typeof formSchema>) => {
     login(values);
-    navigate(from);
+    navigate(from ?? "/store");
   };
 
   return (

@@ -20,7 +20,7 @@ const useLoader = () => {
         visible={true}
         height={height || "30"}
         width={width || "30"}
-        color={color || "#fff"}
+        color={color || "#1E99F5"}
         radius="9"
         ariaLabel="three-dots-loading"
       />

@@ -43,6 +43,7 @@ const AuthContextProvider = ({ children }: { children: ReactNode }) => {
   // Logout function
   const logout = () => {
     setUser(null);
+    sessionStorage.removeItem("user");
   };
 
   // Check if user is authenticated
