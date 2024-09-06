@@ -4,9 +4,11 @@ import { Separator } from "@/components/ui/separator";
 import { StoreContext } from "@/context/store-context";
 import { Info } from "lucide-react";
 import { useContext } from "react";
+import { useNavigate } from "react-router-dom";
 
 const CartCount = () => {
   const { subTotal } = useContext(StoreContext);
+  const navigate = useNavigate();
 
   return (
     <>
@@ -36,7 +38,12 @@ const CartCount = () => {
           </div>
         </CardContent>
       </Card>
-      <Button className="w-full uppercase">Go to Checkout</Button>
+      <Button
+        className="w-full uppercase"
+        onClick={() => navigate("/checkout")}
+      >
+        Go to Checkout
+      </Button>
     </>
   );
 };
