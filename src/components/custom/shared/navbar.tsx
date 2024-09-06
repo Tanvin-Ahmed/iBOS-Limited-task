@@ -12,6 +12,7 @@ import { Link, useNavigate } from "react-router-dom";
 import CustomAvatar from "./custom-avatar";
 import { useContext } from "react";
 import { AuthContext } from "@/context/auth-context";
+import { StoreContext } from "@/context/store-context";
 
 const navItems = [
   {
@@ -21,6 +22,7 @@ const navItems = [
   {
     id: crypto.randomUUID(),
     label: "Products",
+    link: "/store",
   },
   {
     id: crypto.randomUUID(),
@@ -38,10 +40,11 @@ const navItems = [
 
 const Navbar = () => {
   const { logout } = useContext(AuthContext);
+  const { totalCartItemCount } = useContext(StoreContext);
   const navigate = useNavigate();
 
   return (
-    <header className="shadow">
+    <header className="shadow sticky top-0 bg-white">
       <nav className="w-full container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           <div className="flex justify-center items-center gap-1">
@@ -53,7 +56,11 @@ const Navbar = () => {
           {/* medium to large screen */}
           <div className="md:flex hidden justify-center items-center gap-3">
             {navItems.map((item) => (
-              <Link to="#" key={item.id} className="rounded px-2">
+              <Link
+                to={item?.link ? item.link : "#"}
+                key={item.id}
+                className="rounded px-2"
+              >
                 {item.label}
               </Link>
             ))}
@@ -64,11 +71,16 @@ const Navbar = () => {
               variant={"ghost"}
               size={"icon"}
               className="relative rounded-full"
+              onClick={() => navigate("/cart")}
             >
               <ShoppingBasket />
-              <div className="absolute bottom-1 right-1 w-4 h-4 rounded-full bg-gray-800 flex justify-center items-center">
-                <small className="text-white text-[9px]">1</small>
-              </div>
+              {!!totalCartItemCount && (
+                <div className="absolute bottom-1 right-1 w-4 h-4 rounded-full bg-gray-800 flex justify-center items-center">
+                  <small className="text-white text-[9px]">
+                    {totalCartItemCount}
+                  </small>
+                </div>
+              )}
             </Button>
             <DropdownMenu>
               <DropdownMenuTrigger asChild>

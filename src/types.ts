@@ -21,6 +21,17 @@ export type Product = {
   image: string;
 };
 
+export type Cart = {
+  id: string;
+  name: string;
+  actualPrice: string;
+  offerPrice: string;
+  description: string;
+  categoryId: string;
+  image: string;
+  itemCount: number;
+};
+
 export type PageInfo = {
   total: number;
   page: number;

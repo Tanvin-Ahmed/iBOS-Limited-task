@@ -23,7 +23,7 @@ export const categories_data = [
 
 export const products_data = [
   {
-    id: crypto.randomUUID(),
+    id: "1",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -34,7 +34,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "2",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -44,7 +44,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "3",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -54,7 +54,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "4",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -64,7 +64,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "5",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -73,7 +73,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "6",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -82,7 +82,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "7",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -93,7 +93,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "8",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -103,7 +103,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "9",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -113,7 +113,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "10",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -123,7 +123,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "11",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -132,7 +132,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "12",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -141,7 +141,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "13",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -152,7 +152,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "14",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -162,7 +162,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "15",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -172,7 +172,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "16",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -182,7 +182,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "17",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -191,7 +191,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "18",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -200,7 +200,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "19",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -211,7 +211,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "20",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -221,7 +221,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "21",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -231,7 +231,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "22",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -241,7 +241,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "23",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -250,7 +250,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "24",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -259,7 +259,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "25",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -270,7 +270,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "26",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -280,7 +280,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "27",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -290,7 +290,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "28",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -300,7 +300,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "29",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -309,7 +309,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "30",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -318,7 +318,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "31",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -329,7 +329,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "32",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -339,7 +339,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "33",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -349,7 +349,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "34",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -359,7 +359,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "35",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -368,7 +368,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "36",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -377,7 +377,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "37",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -388,7 +388,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "38",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -398,7 +398,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "39",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -408,7 +408,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "40",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -418,7 +418,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "41",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -427,7 +427,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "42",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -436,7 +436,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "43",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -447,7 +447,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "44",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -457,7 +457,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "45",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -467,7 +467,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "46",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -477,7 +477,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "47",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -486,7 +486,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "48",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -495,7 +495,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "49",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -506,7 +506,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "50",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -516,7 +516,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "51",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -526,7 +526,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "52",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -536,7 +536,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "53",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -545,7 +545,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "54",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -554,7 +554,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "55",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -565,7 +565,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "56",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -575,7 +575,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "57",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -585,7 +585,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "58",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -595,7 +595,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "59",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -604,7 +604,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "60",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -613,7 +613,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "61",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -624,7 +624,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "62",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -634,7 +634,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "63",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -644,7 +644,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "64",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -654,7 +654,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "65",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -663,7 +663,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "66",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -672,7 +672,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "67",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -683,7 +683,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "68",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -693,7 +693,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "69",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -703,7 +703,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "70",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -713,7 +713,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "71",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -722,7 +722,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "72",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -731,7 +731,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "73",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -742,7 +742,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "74",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -752,7 +752,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "75",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -762,7 +762,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "76",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -772,7 +772,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "77",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -781,7 +781,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "78",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -790,7 +790,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "79",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -801,7 +801,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "80",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -811,7 +811,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "81",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -821,7 +821,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "82",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -831,7 +831,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "83",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -840,7 +840,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "84",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -849,7 +849,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "85",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -860,7 +860,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "86",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -870,7 +870,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "87",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -880,7 +880,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "88",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -890,7 +890,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "89",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -899,7 +899,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "90",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -908,7 +908,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "91",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -919,7 +919,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "92",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -929,7 +929,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "93",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -939,7 +939,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "94",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -949,7 +949,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "95",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -958,7 +958,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "96",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -967,7 +967,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "97",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -978,7 +978,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "98",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -988,7 +988,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "99",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -998,7 +998,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "100",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1008,7 +1008,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "101",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1017,7 +1017,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "102",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1026,7 +1026,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "103",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1037,7 +1037,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "104",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1047,7 +1047,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "105",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1057,7 +1057,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "106",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1067,7 +1067,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "107",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1076,7 +1076,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "108",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1085,7 +1085,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "109",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1096,7 +1096,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "110",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1106,7 +1106,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "111",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1116,7 +1116,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "112",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1126,7 +1126,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "113",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1135,7 +1135,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "114",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1144,7 +1144,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "115",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1155,7 +1155,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "116",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1165,7 +1165,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "117",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1175,7 +1175,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "118",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1185,7 +1185,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "119",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1194,7 +1194,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "120",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1203,7 +1203,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "121",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1214,7 +1214,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "122",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1224,7 +1224,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "123",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1234,7 +1234,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "124",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1244,7 +1244,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "125",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1253,7 +1253,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "126",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1262,7 +1262,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "127",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1273,7 +1273,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "128",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1283,7 +1283,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "129",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1293,7 +1293,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "130",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1303,7 +1303,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "131",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1312,7 +1312,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "132",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1321,7 +1321,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "133",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1332,7 +1332,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "134",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1342,7 +1342,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "135",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1352,7 +1352,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "136",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1362,7 +1362,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "137",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1371,7 +1371,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "138",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1380,7 +1380,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "139",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1391,7 +1391,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "140",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1401,7 +1401,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "141",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1411,7 +1411,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "142",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1421,7 +1421,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "143",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1430,7 +1430,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "144",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1439,7 +1439,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "145",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1450,7 +1450,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "146",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1460,7 +1460,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "147",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1470,7 +1470,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "148",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1480,7 +1480,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "149",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1489,7 +1489,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "150",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1498,7 +1498,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "151",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1509,7 +1509,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "152",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1519,7 +1519,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "153",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1529,7 +1529,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "154",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1539,7 +1539,7 @@ export const products_data = [
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
   },
   {
-    id: crypto.randomUUID(),
+    id: "155",
     name: "Case-Mate iPhone 14 Pro Case",
     categoryId: "104",
     image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
@@ -1548,7 +1548,7 @@ export const products_data = [
     description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "156",
     name: "Magnetic Wireless Charger for iPhone",
     categoryId: "105",
     image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
@@ -1557,7 +1557,7 @@ export const products_data = [
     description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
   {
-    id: crypto.randomUUID(),
+    id: "157",
     name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
     categoryId: "101",
     image:
@@ -1568,7 +1568,7 @@ export const products_data = [
       "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
   },
   {
-    id: crypto.randomUUID(),
+    id: "158",
     name: "JBL Tune Flex",
     categoryId: "103",
     image:
@@ -1578,7 +1578,7 @@ export const products_data = [
     description: "True Wireless Noise Cancelling Earbuds (Black), Small",
   },
   {
-    id: crypto.randomUUID(),
+    id: "159",
     name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
     categoryId: "103",
     image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
@@ -1588,7 +1588,7 @@ export const products_data = [
       "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
   },
   {
-    id: crypto.randomUUID(),
+    id: "160",
     name: "Lenovo IdeaPad 1 Laptop",
     categoryId: "102",
     image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
@@ -1596,200 +1596,5 @@ export const products_data = [
     offerPrice: "304.99",
     description:
       "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Case-Mate iPhone 14 Pro Case",
-    categoryId: "104",
-    image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
-    actualPrice: "49.99",
-    offerPrice: "47.05",
-    description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Magnetic Wireless Charger for iPhone",
-    categoryId: "105",
-    image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
-    actualPrice: "50.99",
-    offerPrice: "33.36",
-    description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
-    categoryId: "101",
-    image:
-      "https://m.media-amazon.com/images/I/71YwZXmVcEL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-    actualPrice: "399.99",
-    offerPrice: "329.99",
-    description:
-      "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "JBL Tune Flex",
-    categoryId: "103",
-    image:
-      "https://m.media-amazon.com/images/I/61joErBxERL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-    actualPrice: "99.95",
-    offerPrice: "49.95",
-    description: "True Wireless Noise Cancelling Earbuds (Black), Small",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
-    categoryId: "103",
-    image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
-    actualPrice: "9.99",
-    offerPrice: "7.89",
-    description:
-      "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Lenovo IdeaPad 1 Laptop",
-    categoryId: "102",
-    image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
-    actualPrice: "329.99",
-    offerPrice: "304.99",
-    description:
-      "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Case-Mate iPhone 14 Pro Case",
-    categoryId: "104",
-    image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
-    actualPrice: "49.99",
-    offerPrice: "47.05",
-    description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Magnetic Wireless Charger for iPhone",
-    categoryId: "105",
-    image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
-    actualPrice: "50.99",
-    offerPrice: "33.36",
-    description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
-    categoryId: "101",
-    image:
-      "https://m.media-amazon.com/images/I/71YwZXmVcEL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-    actualPrice: "399.99",
-    offerPrice: "329.99",
-    description:
-      "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "JBL Tune Flex",
-    categoryId: "103",
-    image:
-      "https://m.media-amazon.com/images/I/61joErBxERL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-    actualPrice: "99.95",
-    offerPrice: "49.95",
-    description: "True Wireless Noise Cancelling Earbuds (Black), Small",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
-    categoryId: "103",
-    image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
-    actualPrice: "9.99",
-    offerPrice: "7.89",
-    description:
-      "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Lenovo IdeaPad 1 Laptop",
-    categoryId: "102",
-    image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
-    actualPrice: "329.99",
-    offerPrice: "304.99",
-    description:
-      "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Case-Mate iPhone 14 Pro Case",
-    categoryId: "104",
-    image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
-    actualPrice: "49.99",
-    offerPrice: "47.05",
-    description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Magnetic Wireless Charger for iPhone",
-    categoryId: "105",
-    image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
-    actualPrice: "50.99",
-    offerPrice: "33.36",
-    description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "SAMSUNG Galaxy A35 5G A Series Cell Phone",
-    categoryId: "101",
-    image:
-      "https://m.media-amazon.com/images/I/71YwZXmVcEL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-    actualPrice: "399.99",
-    offerPrice: "329.99",
-    description:
-      "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "JBL Tune Flex",
-    categoryId: "103",
-    image:
-      "https://m.media-amazon.com/images/I/61joErBxERL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-    actualPrice: "99.95",
-    offerPrice: "49.95",
-    description: "True Wireless Noise Cancelling Earbuds (Black), Small",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
-    categoryId: "103",
-    image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
-    actualPrice: "9.99",
-    offerPrice: "7.89",
-    description:
-      "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go.",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Lenovo IdeaPad 1 Laptop",
-    categoryId: "102",
-    image: "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
-    actualPrice: "329.99",
-    offerPrice: "304.99",
-    description:
-      "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Case-Mate iPhone 14 Pro Case",
-    categoryId: "104",
-    image: "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
-    actualPrice: "49.99",
-    offerPrice: "47.05",
-    description: `Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1", Anti-Scratch, Shock Absorbent, Slim Fit`,
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Magnetic Wireless Charger for iPhone",
-    categoryId: "105",
-    image: "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
-    actualPrice: "50.99",
-    offerPrice: "33.36",
-    description: `Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod`,
   },
 ];

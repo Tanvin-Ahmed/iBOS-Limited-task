@@ -7,7 +7,7 @@ import { StoreContext } from "@/context/store-context";
 import { categories_data, products_data } from "@/data/data";
 import { calculateDiscount } from "@/lib/utils";
 import { paginateProducts } from "@/query-function/query";
-import { PageInfo } from "@/types";
+import { PageInfo, Product } from "@/types";
 import { ShoppingBasket } from "lucide-react";
 import { useContext, useEffect, useState } from "react";
 
@@ -19,6 +19,7 @@ const StorePage = () => {
     products,
     selectedCategoryId,
     setSelectedCategoryId,
+    insertCartItem,
   } = useContext(StoreContext);
   const [pageInfo, setPageInfo] = useState<PageInfo>({
     page: 1,
@@ -48,6 +49,10 @@ const StorePage = () => {
     const { data, ...rest } = products;
     setProducts(data);
     setPageInfo(rest);
+  };
+
+  const handleAddToCart = (item: Product) => {
+    insertCartItem(item);
   };
 
   return (
@@ -99,9 +104,9 @@ const StorePage = () => {
                       {product.name}
                     </CardTitle>
                     <p className="flex items-center gap-3 flex-wrap sm:flex-nowrap">
-                      ${product.offerPrice}{" "}
+                      €{product.offerPrice}{" "}
                       <span className="text-muted-foreground line-through">
-                        ${product.actualPrice}
+                        €{product.actualPrice}
                       </span>{" "}
                       <span className="text-red-500">
                         {calculateDiscount(
@@ -116,7 +121,10 @@ const StorePage = () => {
                     </small>
                   </CardContent>
                   <CardFooter>
-                    <Button className="w-full">
+                    <Button
+                      className="w-full"
+                      onClick={() => handleAddToCart(product)}
+                    >
                       <ShoppingBasket className="w-4 h-4 mr-3" /> Add to cart
                     </Button>
                   </CardFooter>

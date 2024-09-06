@@ -33,6 +33,7 @@ const Loadable = <P extends LoadableProps>(Component: ComponentType<P>) => {
 
 const App = Loadable(lazy(() => import("../App")));
 const StorePage = Loadable(lazy(() => import("@/pages/store")));
+const CartPage = Loadable(lazy(() => import("@/pages/cart")));
 
 const SecurePage = ({ children }: { children: ReactNode }) => {
   return (
@@ -60,6 +61,14 @@ const Router = () => {
           element: (
             <SecurePage>
               <StorePage />
+            </SecurePage>
+          ),
+        },
+        {
+          path: "/cart",
+          element: (
+            <SecurePage>
+              <CartPage />
             </SecurePage>
           ),
         },
