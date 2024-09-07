@@ -194,11 +194,11 @@ const SignUpForm = () => {
         <div className="grid sm:grid-cols-2 grid-cols-1 gap-4">
           <Button variant={"outline"} className="w-full">
             <img src={google} alt="google" className="h-full mr-2" />
-            Sing in with Google
+            Sing up with Google
           </Button>
           <Button variant={"outline"} className="w-full">
             <img src={apple} alt="google" className="h-full mr-2" />
-            Sing in with Apple
+            Sing up with Apple
           </Button>
         </div>
         <p className="text-center font-semibold">
