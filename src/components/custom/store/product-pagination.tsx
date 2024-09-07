@@ -12,7 +12,7 @@ import { PageInfo } from "@/types";
 import { useWindowWidth } from "@react-hook/window-size";
 import { StoreContext } from "@/context/store-context";
 import { paginateProducts } from "@/query-function/query";
-import { products_data } from "@/data/data";
+import products_data from "@/data/product.json";
 import { PRODUCT_PER_PAGE } from "@/constant/constant";
 
 type Props = {

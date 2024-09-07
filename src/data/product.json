@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "name": "SAMSUNG Galaxy A35 5G A Series Cell Phone",
+    "categoryId": "101",
+    "image": "https://m.media-amazon.com/images/I/71YwZXmVcEL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "actualPrice": "399.99",
+    "offerPrice": "329.99",
+    "description": "128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Rugged Design, US Version, 2024, Awesome Navy"
+  },
+  {
+    "id": "2",
+    "name": "JBL Tune Flex",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/61joErBxERL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "actualPrice": "99.95",
+    "offerPrice": "49.95",
+    "description": "True Wireless Noise Cancelling Earbuds (Black), Small"
+  },
+  {
+    "id": "3",
+    "name": "Skullcandy Jib In-Ear Earbuds with Microphone - Black",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
+    "actualPrice": "9.99",
+    "offerPrice": "7.89",
+    "description": "3.5mm AUX Cable - Easily plug in to your favourite compatible device or on an airplane to listen to music, movies and podcasts when on-the-go."
+  },
+  {
+    "id": "4",
+    "name": "Lenovo IdeaPad 1 Laptop",
+    "categoryId": "102",
+    "image": "https://m.media-amazon.com/images/I/51h3oOo7XnL._AC_SL1200_.jpg",
+    "actualPrice": "329.99",
+    "offerPrice": "304.99",
+    "description": "15.6” FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, Windows 11 Home, 720p Camera w/Privacy Shutter, Smart Noise Cancelling, Cloud Grey"
+  },
+  {
+    "id": "5",
+    "name": "Case-Mate iPhone 14 Pro Case",
+    "categoryId": "104",
+    "image": "https://m.media-amazon.com/images/I/71Eoizr0E-L._AC_SL1500_.jpg",
+    "actualPrice": "49.99",
+    "offerPrice": "47.05",
+    "description": "Karat Marble [10FT Drop Protection] [Compatible with MagSafe] Magnetic Cover with Cute Bling Sparkle for iPhone 14 Pro 6.1', Anti-Scratch, Shock Absorbent, Slim Fit"
+  },
+  {
+    "id": "6",
+    "name": "Magnetic Wireless Charger for iPhone",
+    "categoryId": "105",
+    "image": "https://m.media-amazon.com/images/I/51U62kbpFjL._AC_SL1332_.jpg",
+    "actualPrice": "50.99",
+    "offerPrice": "33.36",
+    "description": "Fodable 3 in 1 Charging Station for Multiple Apple Devices - Travel Charging Pad Dock for Apple Watch iPhone 15 14 13 12 Pro Max Plus & Airpod"
+  },
+  {
+    "id": "7",
+    "name": "Moto G Play 2023",
+    "categoryId": "101",
+    "image": "https://m.media-amazon.com/images/I/61K1Fz5LxvL._AC_SL1500_.jpg",
+    "actualPrice": "169.99",
+    "offerPrice": "98.14",
+    "description": "3-Day Battery Unlocked Made for US 3/32GB 16MP Camera Navy Blue"
+  },
+  {
+    "id": "8",
+    "name": "TAGRY Bluetooth Headphones",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/61uEvVoizoL._AC_SL1500_.jpg",
+    "actualPrice": "49.99",
+    "offerPrice": "35.99",
+    "description": "True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Earbuds with Mic for TV Smart Phone Laptop Computer Sports"
+  },
+  {
+    "id": "9",
+    "name": "sephia SP3060 Wired Headphones",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/71rUa-qIVdL._AC_SL1500_.jpg",
+    "actualPrice": "14.95",
+    "offerPrice": "12.95",
+    "description": "HD Bass Driven Audio, Lightweight Aluminum Wired in Ear Earbud Headphones, S/M/L Ear Bud Tips, Earphone Case, 3.5mm Tangle-Free Cord (without Mic)"
+  },
+  {
+    "id": "10",
+    "name": "HP 14 Laptop",
+    "categoryId": "102",
+    "image": "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_SL1500_.jpg",
+    "actualPrice": "209.99",
+    "offerPrice": "183.92",
+    "description": "Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, Snowflake White)"
+  },
+  {
+    "id": "11",
+    "name": "Hiearcool Waterproof Phone Pouch",
+    "categoryId": "104",
+    "image": "https://m.media-amazon.com/images/I/61KhBhktu2L._AC_SL1022_.jpg",
+    "actualPrice": "59.99",
+    "offerPrice": "42.05",
+    "description": "Universal Case Compatible for iPhone 15 14 13 12 Pro Max Plus Up to 8.3', IPX8 Beach Travel Essentials-Black-2 Pack"
+  },
+  {
+    "id": "12",
+    "name": "Anker Nano Portable Charger for iPhone",
+    "categoryId": "105",
+    "image": "https://m.media-amazon.com/images/I/61rYuLq0ruL._AC_SL1500_.jpg",
+    "actualPrice": "17.99",
+    "offerPrice": "13.36",
+    "description": "With Built-in MFi Certified Lightning Connector, Power Bank 5,000mAh 12W, Compatible with iPhone 14/14 Pro / 14 Plus, iPhone 13 and 12 Series (Black)"
+  },
+  {
+    "id": "13",
+    "name": "OnePlus 12",
+    "categoryId": "101",
+    "image": "https://m.media-amazon.com/images/I/711F6T6aySL._AC_SL1500_.jpg",
+    "actualPrice": "899.99",
+    "offerPrice": "810.99",
+    "description": "16GB RAM+512GB,Dual-SIM,Unlocked Android Smartphone,Supports 50W Wireless Charging,Latest Mobile Processor,Advanced Hasselblad Camera,5400 mAh Battery,2024,Flowy Emerald"
+  },
+  {
+    "id": "14",
+    "name": "SHOKZ OpenRun Pro",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/511WW7UOFCL._AC_SL1500_.jpg",
+    "actualPrice": "179.95",
+    "offerPrice": "159.95",
+    "description": "Open-Ear Bluetooth Bone Conduction Sport Headphones, Sweat Resistant Wireless Earphones for Workouts and Running with Premium Deep Base - Built-in Mic, with Hair Band, Black"
+  },
+  {
+    "id": "15",
+    "name": "LUDOS OMNITONE Wired Earbuds in-Ear Headphones",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/61y+OaUIbrL._AC_SL1500_.jpg",
+    "actualPrice": "14.99",
+    "offerPrice": "8.89",
+    "description": "5 Year Warranty, Earphones with Microphone, 3.5 mm Jack Corded Ear Buds, Videoconference for iPhone, Samsung, Computer, Laptop, Kids, School Students"
+  },
+  {
+    "id": "16",
+    "name": "ASUS 2024 Vivobook Go",
+    "categoryId": "102",
+    "image": "https://m.media-amazon.com/images/I/51xxONbwsvL._AC_SL1200_.jpg",
+    "actualPrice": "259.99",
+    "offerPrice": "230.59",
+    "description": "11.6” HD Laptop, Intel Celeron N4500, Intel Graphics, 4GB, 128GB, Windows 11 Home in S Mode, Star Black, L210KA-ES04"
+  },
+  {
+    "id": "17",
+    "name": "OtterBox Samsung Galaxy S24 Ultra Defender Series Case",
+    "categoryId": "104",
+    "image": "https://m.media-amazon.com/images/I/71JqV5HhtsL._AC_SL1500_.jpg",
+    "actualPrice": "64.95",
+    "offerPrice": "48.50",
+    "description": "BLACK, rugged & durable, with port protection, includes holster clip kickstand"
+  },
+  {
+    "id": "18",
+    "name": "iPhone Charger",
+    "categoryId": "105",
+    "image": "https://m.media-amazon.com/images/I/61elgS6ncgL._AC_SL1500_.jpg",
+    "actualPrice": "15.99",
+    "offerPrice": "10.47",
+    "description": "2 Pack 20W PD USB C Wall Fast Charger Adapter with 2 Pack 6FT Type C to Lightning Cable Compatible for iPhone 14 13 12 11 Pro Max XR XS X,iPad"
+  },
+  {
+    "id": "19",
+    "name": "Motorola razr | 2023",
+    "categoryId": "101",
+    "image": "https://m.media-amazon.com/images/I/514YogjIWpL._AC_SL1500_.jpg",
+    "actualPrice": "699.99",
+    "offerPrice": "399.99",
+    "description": "Unlocked | Made for US 8/128 | 32MP Camera | Cherry Blossom, 73.95 x 170.82 x 7.35mm"
+  },
+  {
+    "id": "20",
+    "name": "Betron YSM1000 Earphones in Ear Headphones",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/71JpGSxTYVL._AC_SL1500_.jpg",
+    "actualPrice": "19.95",
+    "offerPrice": "16.99",
+    "description": "Wired 3.5mm Jack Tangle-Free Cable Case and Noise Isolating Earbuds"
+  },
+  {
+    "id": "21",
+    "name": "Beats Flex Wireless Earbuds",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/61WT1dcszdL._AC_SL1500_.jpg",
+    "actualPrice": "37.11",
+    "offerPrice": "26.11",
+    "description": "Apple W1 Headphone Chip, Magnetic Earphones, Class 1 Bluetooth, 12 Hours of Listening Time, Built-in Microphone - Flame Blue"
+  },
+  {
+    "id": "22",
+    "name": "Acer Nitro V Gaming Laptop",
+    "categoryId": "102",
+    "image": "https://m.media-amazon.com/images/I/71F-Wcriq4L._AC_SL1500_.jpg",
+    "actualPrice": "779.99",
+    "offerPrice": "649.99",
+    "description": "Intel Core i5-13420H Processor | NVIDIA GeForce RTX 4050 Laptop GPU | 15.6' FHD IPS 144Hz Display | 8GB DDR5 | 512GB Gen 4 SSD | WiFi 6 | Backlit KB | ANV15-51-51H9"
+  },
+  {
+    "id": "23",
+    "name": "pigen Tough Armor Designed for Galaxy S24 Ultra Case (2024)",
+    "categoryId": "104",
+    "image": "https://m.media-amazon.com/images/I/61u0MkooLrL._AC_SL1200_.jpg",
+    "actualPrice": "44.99",
+    "offerPrice": "19.99",
+    "description": "[Kickstand] [Military-Grade Protection] - Black"
+  },
+  {
+    "id": "24",
+    "name": "INIU Wireless Charger",
+    "categoryId": "105",
+    "image": "https://m.media-amazon.com/images/I/71B+4V5YhnL._AC_SL1251_.jpg",
+    "actualPrice": "26.98",
+    "offerPrice": "17.45",
+    "description": "15W Fast Qi-Certified Wireless Charging Station with Sleep-Friendly Adaptive Light Compatible with iPhone 15 14 13 12 Pro XS 8 Plus Samsung Galaxy S23 S22 S21 Note 20 Google etc"
+  },
+  {
+    "id": "25",
+    "name": "SAMSUNG Galaxy S24 Cell Phone",
+    "categoryId": "101",
+    "image": "https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_SL1500_.jpg",
+    "actualPrice": "799.99",
+    "offerPrice": "719.99",
+    "description": "128GB AI Smartphone, Unlocked Android, 50MP Camera, Fastest Processor, Long Battery Life, US Version, 2024, Onyx Black, SM-S921UZKAXAA"
+  },
+  {
+    "id": "26",
+    "name": "Bose Ultra Open Earbuds",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/51LyCgwzz9L._AC_SL1500_.jpg",
+    "actualPrice": "349.95",
+    "offerPrice": "299.00",
+    "description": "Immersive Audio Open Ear Earbuds, Clip on Earbuds for Comfort, Running Earbuds with OpenAudio for Awareness, Up to 48 Hours of Battery Life, Black"
+  },
+  {
+    "id": "27",
+    "name": "bmani Wireless Earbuds Bluetooth Headphones",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/71JurZKVY0L._AC_SL1500_.jpg",
+    "actualPrice": "$39.69",
+    "offerPrice": "$29.69",
+    "description": "48hrs Play Back Sport Earphones with LED Display Over-Ear Buds with Earhooks Built-in Mic Headset for Workout Pink"
+  },
+  {
+    "id": "28",
+    "name": "HP 2023 Newest Chromebook Laptop",
+    "categoryId": "102",
+    "image": "https://m.media-amazon.com/images/I/51PsNbMd-CL._AC_SL1113_.jpg",
+    "actualPrice": "319.99",
+    "offerPrice": "304.99",
+    "description": "14 Inch Display, Intel Celeron N4120 Processor, 4GB RAM, 64GB eMMC, Intel UHD Graphics 600, WiFi, Bluetooth, Chrome OS, Modern Gray"
+  },
+  {
+    "id": "29",
+    "name": "Two-in-one Double-Layer Anti-Fall Mobile Phone case",
+    "categoryId": "104",
+    "image": "https://m.media-amazon.com/images/I/61cWqFd4gUL._AC_SL1000_.jpg",
+    "actualPrice": "10.89",
+    "offerPrice": "7.89",
+    "description": "For Galaxy A04e 4G Case,PC+TPU Two-in-one Double-Layer Anti-Fall Mobile Phone case, Mobile Phone Protective case for Samsung Galaxy A04e (Mint Green)"
+  },
+  {
+    "id": "30",
+    "name": "WAITIEE Wireless Charger 3 in 1",
+    "categoryId": "105",
+    "image": "https://m.media-amazon.com/images/I/71cta6OKGfL._AC_SL1500_.jpg",
+    "actualPrice": "40.99",
+    "offerPrice": "23.36",
+    "description": "15W Fast Charging Station for Apple Watch 9/8/Ultra 2/Ultra/SE/7/6/5/4/3/2, for AirPods 3/2/1/Pro/Pro 2, for iPhone 15/14/13 /Plus/Pro/Pro Max/12/11/X/Xr/XS/8 (Black)"
+  },
+  {
+    "id": "31",
+    "name": "Motorola Moto g Play 2024",
+    "categoryId": "101",
+    "image": "https://m.media-amazon.com/images/I/71CxUvG46rL._AC_SL1500_.jpg",
+    "actualPrice": "99.99",
+    "offerPrice": "49.88",
+    "description": "Simple Mobile | Motorola Moto g Play 2024 | Locked | 64GB | 5000mAh Battery | 50MP Quad Pixel Camera | 6.5-in. HD+ 90Hz Display | Sapphire Blue"
+  },
+  {
+    "id": "32",
+    "name": "LUDOS OMNITONE Wired Earbuds in-Ear Headphones",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/61y+OaUIbrL._AC_SL1500_.jpg",
+    "actualPrice": "95.95",
+    "offerPrice": "49.95",
+    "description": "5 Year Warranty, Earphones with Microphone, 3.5 mm Jack Corded Ear Buds, Videoconference for iPhone, Samsung, Computer, Laptop, Kids, School Students"
+  },
+  {
+    "id": "33",
+    "name": "Panasonic ErgoFit Wired Earbuds",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/51dkpGaZbDL._AC_SL1478_.jpg",
+    "actualPrice": "9.99",
+    "offerPrice": "7.89",
+    "description": "In-Ear Headphones with Dynamic Crystal-Clear Sound and Ergonomic Custom-Fit Earpieces (S/M/L), 3.5mm Jack for Phones and Laptops, No Mic - RP-HJE120-KA (Matte Black)"
+  },
+  {
+    "id": "34",
+    "name": "ASUS VivoBook 16 Laptop",
+    "categoryId": "102",
+    "image": "https://m.media-amazon.com/images/I/71AqIXKUO7L._AC_SL1500_.jpg",
+    "actualPrice": "599.99",
+    "offerPrice": "562.00",
+    "description": "16” WUXGA (1920 x 1200) 16:10Display, AMD Ryzen 7 7730U CPU, AMD Radeon™ Graphics, 8GB RAM, 1TB SSD, Fingerprint Sensor, Windows 11 Home, Indie Black, M1605YA-ES74"
+  },
+  {
+    "id": "35",
+    "name": "Mobile Vogue by Reiko",
+    "categoryId": "104",
+    "image": "https://m.media-amazon.com/images/I/71ZckborqtL._AC_SL1300_.jpg",
+    "actualPrice": "10.99",
+    "offerPrice": "4.99",
+    "description": "Premium Eco-Friendly Leather Phone Pouch Belt Clip Holster Compatible with iPhone/Galaxy/Stylo/Android Phone with Protective Case on (Black-MV115, 6.1 x 3.2 x 0.7 in)"
+  },
+  {
+    "id": "36",
+    "name": "Amazon Basics 68W Two-Port GaN Wall Charger",
+    "categoryId": "105",
+    "image": "https://m.media-amazon.com/images/I/416ejBlUcNS._AC_SL1500_.jpg",
+    "actualPrice": "25.75",
+    "offerPrice": "21.89",
+    "description": "Charger with 2 USB-C Ports (60W, 18W) with PD for Laptops, Tablets & Phones (iPhone 15/14/13/12/11/X, iPad, MacPro, Samsung & More), Non-PPS, Black"
+  },
+  {
+    "id": "37",
+    "name": "Motorola Moto G Stylus 5G",
+    "categoryId": "101",
+    "image": "https://m.media-amazon.com/images/I/61O66kJiiGL._AC_SL1500_.jpg",
+    "actualPrice": "399.99",
+    "offerPrice": "229.99",
+    "description": "Unlocked | Made for US 6/256GB | 50 MPCamera | Cosmic Black, 162.83x73.77x9.29"
+  },
+  {
+    "id": "38",
+    "name": "Soundcore by Anker P20i True Wireless Earbuds",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/51GbU4yIv4L._AC_SL1500_.jpg",
+    "actualPrice": "39.99",
+    "offerPrice": "24.99",
+    "description": "10mm Drivers with Big Bass, Bluetooth 5.3, 30H Long Playtime, Water-Resistant, 2 Mics for AI Clear Calls, 22 Preset EQs, Customization (Blue)"
+  },
+  {
+    "id": "39",
+    "name": "Kids Headphones",
+    "categoryId": "103",
+    "image": "https://m.media-amazon.com/images/I/71Hj72GiJQL._AC_SL1500_.jpg",
+    "actualPrice": "18.26",
+    "offerPrice": "13.26",
+    "description": "noot products K11 Foldable Stereo Tangle-Free 3.5mm Jack Wired Cord On-Ear Headset for Children/Teens/Boys/Girls/Smartphones/School/Kindle/Airplane Travel/Plane/Tablet (Navy/Teal)"
+  },
+  {
+    "id": "40",
+    "name": "ASUS ROG Strix G16 (2024) Gaming Laptop",
+    "categoryId": "102",
+    "image": "https://m.media-amazon.com/images/I/81GrCeuCzxL._AC_SL1500_.jpg",
+    "actualPrice": "1,399.99",
+    "offerPrice": "1,164.99",
+    "description": "16” 16:10 FHD 165Hz Display, NVIDIA® GeForce RTX™ 4060, Intel Core i7-13650HX, 16GB DDR5, 1TB PCIe Gen4 SSD, Wi-Fi 6E, Windows 11, G614JV-AS74"
+  }
+]
