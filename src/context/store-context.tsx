@@ -89,9 +89,13 @@ const StoreContextProvider = ({ children }: { children: ReactNode }) => {
   }, [cartItems]);
 
   const subTotal = useMemo(() => {
-    return cartItems.reduce(
-      (total, item) => total + Number(item.offerPrice) * item.itemCount,
-      0
+    return Number(
+      cartItems
+        .reduce(
+          (total, item) => total + Number(item.offerPrice) * item.itemCount,
+          0
+        )
+        .toFixed(2)
     );
   }, [cartItems]);
 

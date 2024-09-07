@@ -89,7 +89,7 @@ const Cart = () => {
                         </div>
                       </div>
                       <p className="text-right">
-                        €{Number(item.offerPrice) * item.itemCount}
+                        €{(Number(item.offerPrice) * item.itemCount).toFixed(2)}
                       </p>
 
                       {index === cartItems.length - 1 ? null : (
